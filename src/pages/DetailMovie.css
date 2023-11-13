@@ -1,0 +1,39 @@
+/* index.css */
+
+.MovieDetail {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .MovieDetail h2 {
+    color: #333;
+  }
+  
+  .MovieDetail p {
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .MovieDetail img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+  
+  .MovieDetail a {
+    display: block;
+    color: #3498db;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  
+  .MovieDetail a:hover {
+    text-decoration: underline;
+  }
+  
